@@ -1,0 +1,31 @@
+{
+  "name": "nextjs-project",
+  "version": "1.0.0",
+  "description": "nextjs project",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "export": "next export"
+  },
+  "keywords": [
+    "nextjs"
+  ],
+  "author": "miguel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AJONPLLC/ajonp-ajsbooks-nextjs/issues"
+  },
+  "homepage": "https://github.com/AJONPLLC/ajonp-ajsbooks-nextjs#readme",
+  "dependencies": {
+    "@material-ui/core": "^4.10.1",
+    "@material-ui/styles": "^4.10.0",
+    "firebase": "^7.15.0",
+    "next": "^9.4.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "rxfire": "^3.13.0",
+    "rxjs": "^6.5.5"
+  }
+}
